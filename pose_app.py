@@ -1,4 +1,8 @@
 import streamlit as st
+# ▼ ここから2行を追加
+import os
+os.environ["STREAMLIT_SERVER_HEADLESS"] = "true"
+
 import cv2
 import mediapipe as mp
 import math
