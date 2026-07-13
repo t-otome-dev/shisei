@@ -1,4 +1,4 @@
-opencv-python-headless
+opencv-python
 mediapipe
 pillow-heif
 google-generativeai
